@@ -6,6 +6,8 @@ I'm currently working on:
 - [PocketGov](https://www.youtube.com/watch?v=h7dbnkKF-PQ&list=PLx0iOsdUOUmnwv1vrUcoOhP736-omYGMN&index=28): a civic information mobile app for users to find their elected officials, compare voting records, and follow legislation
 - LabSync: a mobile app for laboratory researchers to coordinate experiments and record data 
 
+Check out my recent paper in [Science Immunology](https://immunology.sciencemag.org/content/6/56/eabe1801)!
+
 <!--
 **aannyyaa/aannyyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
